@@ -1,10 +1,13 @@
 # BalloonPop_VSQUARE
 Assignment: Basic Unity Game with Python Scripting and PlayFab Leaderboard
 
-#Game Overview and Features
+## Game Overview and Features -
+
 The game is called Balloon Pop. It's a simple and easy game. When you start, balloons of different colors come from a rotating cannon and float up on the screen. You just need to click or tap on the balloons to get points. The game has a menu at the beginning, a part where you play the game, and another part at the end that shows your score. You can even submit your score to a leaderboard if you want. In the game, you earn points for popping balloons. But if you miss a balloon, your "escape points" go up. The game ends when your escape points reach a certain limit.
 
-#Pthon Script Integration and Implementation
+
+## Python Script Integration and Implementation -
+
 To run the Python file, follow these steps:
 1. Open the Gameplay scene in your game editor.
 2. Click on the Main Camera GameObject.
@@ -29,7 +32,8 @@ You can customize the following features by changing the variables inside the Py
 Simply update these variables in the Python script to tailor the game experience according to your preferences.
 
 
-#PlayFab Integration
+## PlayFab Integration -
+
 1. **Install PlayFab Package:**
    - Followed the instructions provided in the [PlayFab Unity SDK Quickstart](https://learn.microsoft.com/en-us/gaming/playfab/sdks/unity3d/quickstart) to install the PlayFab package in your Unity project.
 
