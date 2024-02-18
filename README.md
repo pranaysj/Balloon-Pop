@@ -31,6 +31,8 @@ You can customize the following features by changing the variables inside the Py
 
 Simply update these variables in the Python script to tailor the game experience according to your preferences.
 
+#### (Note - Open the Python file in your editor, make the desired changes to the variables, and save the file. Once saved, you'll observe the modifications reflected in the game as well.)
+
 
 ## PlayFab Integration -
 
@@ -52,3 +54,6 @@ Simply update these variables in the Python script to tailor the game experience
    - Displayed the fetched leaderboard data on the game's leaderboard table.
 
 By completing these steps, you've successfully integrated PlayFab into your Unity project, allowing for player data storage and retrieval through a leaderboard. This enhances the gaming experience by providing a competitive aspect and allowing players to compare their scores with others. Make sure to test thoroughly and handle any error scenarios to ensure a smooth player experience.
+
+
+#### (Note - In the PlayFab server's Leaderboard Settings, we set it to "Latest (always update with the new value)". This is handy because each PC has its own username, and we can see any changes get updated right away on the leaderboard.)
