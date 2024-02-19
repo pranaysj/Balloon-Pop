@@ -81,6 +81,11 @@ public class PlayFabManager : MonoBehaviour
 
     void GetLeaderB(GetLeaderboardResult result)
     {
+        foreach (Transform item in rowParent)
+        {
+            Destroy(item.gameObject);
+        }
+        
         foreach (var item in result.Leaderboard)
         {
             GameObject rowspawn = Instantiate(rowPrefab,rowParent);
