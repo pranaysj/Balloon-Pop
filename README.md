@@ -57,3 +57,10 @@ By completing these steps, you've successfully integrated PlayFab into your Unit
 
 
 #### (Note - In the PlayFab server's Leaderboard Settings, we set it to "Latest (always update with the new value)". This is handy because each PC has its own username, and we can see any changes get updated right away on the leaderboard.)
+
+
+## Screenshots
+
+
+## Gameplay Video
+https://github.com/pranaysj/BalloonPop_VSQUARE/assets/75151973/48f73bed-8a9a-40ec-9909-91efa99b9c9a
