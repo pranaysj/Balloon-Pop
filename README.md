@@ -1,6 +1,14 @@
 # BalloonPop_VSQUARE
 Assignment: Basic Unity Game with Python Scripting and PlayFab Leaderboard
 
+## Screenshots -
+![StartScene](https://github.com/pranaysj/BalloonPop_VSQUARE/assets/75151973/8d93fcb6-e501-4b13-86fb-277cc98e05b4)
+![GamePLayScene](https://github.com/pranaysj/BalloonPop_VSQUARE/assets/75151973/bd4b6866-6b2f-4a7b-8dc0-b95b0469d9a0)
+![EndScene](https://github.com/pranaysj/BalloonPop_VSQUARE/assets/75151973/af3ac9fa-6ca1-487b-a203-63beabab1c0a)
+
+## Gameplay Video -
+https://github.com/pranaysj/BalloonPop_VSQUARE/assets/75151973/48f73bed-8a9a-40ec-9909-91efa99b9c9a
+
 ## Game Overview and Features -
 
 The game is called Balloon Pop. It's a simple and easy game. When you start, balloons of different colors come from a rotating cannon and float up on the screen. You just need to click or tap on the balloons to get points. The game has a menu at the beginning, a part where you play the game, and another part at the end that shows your score. You can even submit your score to a leaderboard if you want. In the game, you earn points for popping balloons. But if you miss a balloon, your "escape points" go up. The game ends when your escape points reach a certain limit.
@@ -59,11 +67,3 @@ By completing these steps, you've successfully integrated PlayFab into your Unit
 
 #### (Note - In the PlayFab server's Leaderboard Settings, we set it to "Latest (always update with the new value)". This is handy because each PC has its own username, and we can see any changes get updated right away on the leaderboard.)
 
-
-## Screenshots -
-![StartScene](https://github.com/pranaysj/BalloonPop_VSQUARE/assets/75151973/8d93fcb6-e501-4b13-86fb-277cc98e05b4)
-![GamePLayScene](https://github.com/pranaysj/BalloonPop_VSQUARE/assets/75151973/bd4b6866-6b2f-4a7b-8dc0-b95b0469d9a0)
-![EndScene](https://github.com/pranaysj/BalloonPop_VSQUARE/assets/75151973/af3ac9fa-6ca1-487b-a203-63beabab1c0a)
-
-## Gameplay Video -
-https://github.com/pranaysj/BalloonPop_VSQUARE/assets/75151973/48f73bed-8a9a-40ec-9909-91efa99b9c9a
