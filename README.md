@@ -1,4 +1,4 @@
-# BalloonPop_VSQUARE
+# Balloon Pop
 Assignment: Basic Unity Game with Python Scripting and PlayFab Leaderboard
 
 ## Screenshots -
